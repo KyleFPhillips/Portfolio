@@ -12,4 +12,4 @@ Tech modules in my degree:
 -Nonlinear Systems
 -Final year dissertation (Focusing on Neural Networks/Machine Learning)
 
-This portfolio contains elements of these modules plus some extra areas I have tried.
+This portfolio contains elements of these modules plus some extra areas I have looked into.
