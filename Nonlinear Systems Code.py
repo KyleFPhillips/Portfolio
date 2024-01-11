@@ -4,7 +4,7 @@ Created on Thu Apr 20 00:56:49 2023
 
 @author: kp503
 """
-#without stimulus, same as fig 5B
+#Section 1: without stimulus, same as fig 5B
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -66,7 +66,7 @@ plt.show()
 
 #%%
 
-#with stimulus
+#Section 2: with stimulus
 
 
 import matplotlib.pyplot as plt
@@ -129,7 +129,7 @@ plt.show()
 
 #%%
 
-#aimed to look like fig 6B
+#Section 3: fig 6B
 
 import matplotlib.pyplot as plt
 import numpy as np
