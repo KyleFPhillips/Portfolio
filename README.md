@@ -1,6 +1,6 @@
 # Portfolio
 ## About
-Recent Maths graduate // Aspiring Data Analyst/Programmer
+Maths graduate
 
 ## Modules
 Tech modules studied in my degree include:
